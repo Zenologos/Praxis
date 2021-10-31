@@ -1,0 +1,83 @@
+,device_number,device_description,site,work_order_number,work_order_priority_description,wo_type_description,problem_reported,lot_year,num_parts_from_storeroom,num_parts_from_po,repair_part_number,repair_part_name,repair_part_stocktype,total_parts_used
+91,LMTS,Laser Markmanship Training System,Warfighter Support Center,DR6330711,Bench/Depot Repair,Corrective COR,2014-06-13 10:54:02,6.0,1.0,0.0,LT-300,LASER,REPAIRABLE,1.0
+97,LMTS,Laser Markmanship Training System,Warfighter Support Center,DR6330713,Bench/Depot Repair,Corrective COR,2014-06-13 10:54:05,6.0,1.0,0.0,LT-300,LASER,REPAIRABLE,1.0
+103,LMTS,Laser Markmanship Training System,Warfighter Support Center,6364416,Bench/Depot Repair,Corrective COR,2014-07-08 13:45:53,6.0,1.0,0.0,LT-300,LASER,REPAIRABLE,1.0
+130,LMTS,Laser Markmanship Training System,Warfighter Support Center,DR6450582,Bench/Depot Repair,Corrective COR,2014-09-02 16:06:05,6.0,1.0,0.0,MD3541,MRL-1001-02/MINI RETS LIFTER,REPAIRABLE,1.0
+336,LMTS,Laser Markmanship Training System,Warfighter Support Center,DR5930278,Bench/Depot Repair,Corrective COR,2013-09-11 13:09:12,5.0,1.0,0.0,LT-300,LASER,REPAIRABLE,1.0
+391,LMTS,Laser Markmanship Training System,Warfighter Support Center,DR5967329,Bench/Depot Repair,Corrective COR,2013-10-08 08:43:10,5.0,1.0,0.0,LT-300,LASER,REPAIRABLE,1.0
+605,LMTS,Laser Markmanship Training System,Warfighter Support Center,DR5826712,Bench/Depot Repair,Corrective COR,2013-07-02 09:13:03,5.0,1.0,0.0,LT-300,LASER,REPAIRABLE,1.0
+616,LMTS,Laser Markmanship Training System,Warfighter Support Center,DR6367755,Bench/Depot Repair,Corrective COR,2014-07-11 11:00:00,6.0,1.0,0.0,LT-300,LASER,REPAIRABLE,1.0
+618,LMTS,Laser Markmanship Training System,Warfighter Support Center,DR6367754,Bench/Depot Repair,Corrective COR,2014-07-11 10:50:00,6.0,1.0,0.0,LT-300,LASER,REPAIRABLE,1.0
+659,LMTS,Laser Markmanship Training System,Warfighter Support Center,DR6193271,Bench/Depot Repair,Corrective COR,2014-03-24 16:02:13,5.0,1.0,0.0,MD3528,TARGET,REPAIRABLE,1.0
+689,LMTS,Laser Markmanship Training System,Warfighter Support Center,DR6270259,Bench/Depot Repair,Corrective COR,2014-05-06 11:42:15,6.0,1.0,0.0,LT-300,LASER,REPAIRABLE,1.0
+700,LMTS,Laser Markmanship Training System,Warfighter Support Center,DR5693378,Bench/Depot Repair,Corrective COR,2013-04-04 08:15:00,4.0,1.0,0.0,LT-300,LASER,REPAIRABLE,1.0
+701,LMTS,Laser Markmanship Training System,Germany - Baumholder,5487405,Corrective Maintenance,Corrective COR,2012-10-19 05:00:00,4.0,1.0,0.0,MD3528,TARGET,REPAIRABLE,1.0
+735,LMTS,Laser Markmanship Training System,Germany - Baumholder,5452589,Corrective Maintenance,Corrective COR,2012-10-19 05:00:00,4.0,1.0,0.0,MD3528,TARGET,REPAIRABLE,1.0
+736,LMTS,Laser Markmanship Training System,Germany - Baumholder,5452592,Corrective Maintenance,Corrective COR,2012-10-19 05:00:00,4.0,1.0,0.0,MD3528,TARGET,REPAIRABLE,1.0
+787,LMTS,Laser Markmanship Training System,Warfighter Support Center,6602738,System - Device Degraded,Corrective COR,2014-12-11 14:15:00,6.0,1.0,0.0,MD3572,LIFTER,REPAIRABLE,1.0
+849,LMTS,Laser Markmanship Training System,"Ft Leonard Wood, MO",5838407,System - Device Degraded,Corrective COR,2013-07-01 08:00:00,5.0,2.0,0.0,MD3572,LIFTER,REPAIRABLE,2.0
+863,LMTS,Laser Markmanship Training System,Warfighter Support Center,DR5959179,Bench/Depot Repair,Corrective COR,2013-10-01 11:13:14,5.0,1.0,0.0,LT-300,LASER,REPAIRABLE,1.0
+875,LMTS,Laser Markmanship Training System,"Ft Sill, OK",5666977,System - Device Degraded,Corrective COR,2013-03-19 09:41:00,4.0,2.0,0.0,MD1001,POWER SUPPLY,REPAIRABLE,2.0
+876,LMTS,Laser Markmanship Training System,"Ft Sill, OK",5666977,System - Device Degraded,Corrective COR,2013-03-19 09:41:00,4.0,2.0,0.0,MD1026,"POWER CORD, TR 900",REPAIRABLE,2.0
+911,LMTS,Laser Markmanship Training System,"Ft Riley, KS",5289839,System - Device Degraded,Corrective COR,2012-06-28 09:58:00,4.0,2.0,0.0,MD2511,ROD,REPAIRABLE,2.0
+947,LMTS,Laser Markmanship Training System,"Ft Indiantown Gap, PA",5772442,System - Device Degraded,Corrective COR,2013-05-24 09:41:00,5.0,2.0,0.0,MD3528,TARGET,REPAIRABLE,2.0
+992,LMTS,Laser Markmanship Training System,Warfighter Support Center,5936187,System - Device Degraded,Corrective COR,2013-09-16 14:42:00,5.0,1.0,0.0,MD3540,CONTROL BOX,REPAIRABLE,1.0
+1005,LMTS,Laser Markmanship Training System,"Ft Indiantown Gap, PA",6278975,System - Device Degraded,Corrective COR,2014-05-12 15:09:00,6.0,1.0,0.0,MDM1751,SNIPER TRAINING SYSTEM,REPAIRABLE,1.0
+1021,LMTS,Laser Markmanship Training System,"Ft Leonard Wood, MO",5613154,System - Device Degraded,Corrective COR,2013-02-07 15:14:00,4.0,2.0,0.0,MD3540,CONTROL BOX,REPAIRABLE,2.0
+1032,LMTS,Laser Markmanship Training System,"Ft Indiantown Gap, PA",5691323,System - Device Degraded,Corrective COR,2013-04-02 15:01:00,4.0,1.0,0.0,MD3528,TARGET,REPAIRABLE,1.0
+1033,LMTS,Laser Markmanship Training System,"Ft Indiantown Gap, PA",5691323,System - Device Degraded,Corrective COR,2013-04-02 15:01:00,4.0,1.0,0.0,MD3528,TARGET,REPAIRABLE,1.0
+1077,LMTS,Laser Markmanship Training System,Warfighter Support Center,6230710,System - Device Degraded,Corrective COR,2014-04-14 08:22:00,5.0,4.0,0.0,MD3610,PARRELLEL PORT CARD BUS,REPAIRABLE,4.0
+1079,LMTS,Laser Markmanship Training System,Warfighter Support Center,6235711,System - Device Degraded,Corrective COR,2014-04-17 13:15:00,5.0,1.0,0.0,MD3540,CONTROL BOX,REPAIRABLE,1.0
+1120,LMTS,Laser Markmanship Training System,"Ft Indiantown Gap, PA",5515436,System - Device Degraded,Corrective COR,2012-12-03 14:27:00,4.0,1.0,0.0,MD1001,POWER SUPPLY,REPAIRABLE,1.0
+1121,LMTS,Laser Markmanship Training System,"Ft Indiantown Gap, PA",5515436,System - Device Degraded,Corrective COR,2012-12-03 14:27:00,4.0,1.0,0.0,MD2511,ROD,REPAIRABLE,1.0
+1124,LMTS,Laser Markmanship Training System,Warfighter Support Center,6620733,System - Device Degraded,Corrective COR,2014-12-29 13:07:00,6.0,1.0,0.0,MD1001,POWER SUPPLY,REPAIRABLE,1.0
+1156,LMTS,Laser Markmanship Training System,"Ft Sam Houston, San Antonio, TX",6233257,System - Device Degraded,Corrective COR,2014-04-16 09:23:00,5.0,8.0,0.0,MD3528,TARGET,REPAIRABLE,8.0
+1160,LMTS,Laser Markmanship Training System,"Ft Riley, KS",5193571,System - Device Degraded,Corrective COR,2012-05-02 11:08:00,4.0,2.0,0.0,MD3528,TARGET,REPAIRABLE,2.0
+1161,LMTS,Laser Markmanship Training System,"Ft Riley, KS",5193571,System - Device Degraded,Corrective COR,2012-05-02 11:08:00,4.0,2.0,0.0,MD3528,TARGET,REPAIRABLE,2.0
+1165,LMTS,Laser Markmanship Training System,"Ft Indiantown Gap, PA",5949994,System - Device Degraded,Corrective COR,2013-09-25 10:26:00,5.0,1.0,0.0,MD3528,TARGET,REPAIRABLE,1.0
+1171,LMTS,Laser Markmanship Training System,Warfighter Support Center,DR5921888,Bench/Depot Repair,Corrective COR,2013-09-05 11:47:43,5.0,1.0,0.0,LT-300,LASER,REPAIRABLE,1.0
+1176,LMTS,Laser Markmanship Training System,"Camp Ripley, MN",5208938,System - Device Degraded,Corrective COR,2012-05-10 15:03:00,4.0,2.0,0.0,MD3528,TARGET,REPAIRABLE,2.0
+1177,LMTS,Laser Markmanship Training System,"Ft Indiantown Gap, PA",5650536,System - Device Degraded,Corrective COR,2013-03-06 15:23:00,4.0,1.0,0.0,MD3528,TARGET,REPAIRABLE,1.0
+1184,LMTS,Laser Markmanship Training System,"Ft Indiantown Gap, PA",5517639,System - Device Degraded,Corrective COR,2012-12-06 15:34:00,4.0,3.0,0.0,MD3528,TARGET,REPAIRABLE,3.0
+1185,LMTS,Laser Markmanship Training System,"Ft Indiantown Gap, PA",5517639,System - Device Degraded,Corrective COR,2012-12-06 15:34:00,4.0,1.0,0.0,MD1001,POWER SUPPLY,REPAIRABLE,1.0
+1188,LMTS,Laser Markmanship Training System,"Ft McCoy, WI",5703459,System - Device Degraded,Corrective COR,2013-04-11 09:33:00,4.0,1.0,0.0,MD3528,TARGET,REPAIRABLE,1.0
+1191,LMTS,Laser Markmanship Training System,"Ft McCoy, WI",5712504,System - Device Degraded,Corrective COR,2013-04-19 09:05:00,4.0,1.0,0.0,MD1026,"POWER CORD, TR 900",REPAIRABLE,1.0
+1192,LMTS,Laser Markmanship Training System,"Ft McCoy, WI",5712504,System - Device Degraded,Corrective COR,2013-04-19 09:05:00,4.0,1.0,0.0,MD1001,POWER SUPPLY,REPAIRABLE,1.0
+1284,LMTS,Laser Markmanship Training System,Warfighter Support Center,6169344,Bench/Depot Repair,Corrective COR,2014-03-03 10:41:00,5.0,1.0,0.0,MD1001,POWER SUPPLY,REPAIRABLE,1.0
+1345,LMTS,Laser Markmanship Training System,Warfighter Support Center,DR5566654,Bench/Depot Repair,Corrective COR,2013-04-15 07:30:00,4.0,1.0,0.0,MD1001,POWER SUPPLY,REPAIRABLE,1.0
+1380,LMTS,Laser Markmanship Training System,Warfighter Support Center,6113264,Bench/Depot Repair,Corrective COR,2014-01-28 14:24:00,5.0,1.0,0.0,LT-300,LASER,REPAIRABLE,1.0
+1467,LMTS,Laser Markmanship Training System,Warfighter Support Center,6078985,Bench/Depot Repair,Corrective COR,2014-01-06 09:30:00,5.0,1.0,0.0,MD1019,DC TO AC INVERTER- 12 VOLT,REPAIRABLE,1.0
+1468,LMTS,Laser Markmanship Training System,Warfighter Support Center,6078985,Bench/Depot Repair,Corrective COR,2014-01-06 09:30:00,5.0,1.0,0.0,MD1019,DC TO AC INVERTER- 12 VOLT,REPAIRABLE,1.0
+1491,LMTS,Laser Markmanship Training System,Warfighter Support Center,DR5321660,Bench/Depot Repair,Corrective COR,2013-06-11 12:30:00,4.0,1.0,0.0,MD4516,"CD-ROM, 460 USB SYSTEM SOFTWARE",REPAIRABLE,1.0
+1526,LMTS,Laser Markmanship Training System,Warfighter Support Center,6750691,System - Device Degraded,Corrective COR,2015-03-26 09:55:00,6.0,1.0,0.0,MD3540,CONTROL BOX,REPAIRABLE,1.0
+1600,LMTS,Laser Markmanship Training System,Warfighter Support Center,DR5520166,Bench/Depot Repair,Corrective COR,2013-06-05 07:30:00,4.0,1.0,0.0,LT-300,LASER,REPAIRABLE,1.0
+1625,LMTS,Laser Markmanship Training System,Warfighter Support Center,5785668,Corrective Maintenance,Corrective COR,2013-06-06 10:28:48,5.0,3.0,0.0,MD3540,CONTROL BOX,REPAIRABLE,3.0
+1627,LMTS,Laser Markmanship Training System,Warfighter Support Center,5785668,Corrective Maintenance,Corrective COR,2013-06-06 10:28:48,5.0,1.0,0.0,MD3541,MRL-1001-02/MINI RETS LIFTER,REPAIRABLE,1.0
+1672,LMTS,LMTS,Warfighter Support Center,7091505,System - Device Degraded,Corrective COR,2015-10-06 15:40:00,7.0,1.0,0.0,MD3540,CONTROL BOX,REPAIRABLE,1.0
+1714,LMTS,LMTS,Warfighter Support Center,7338825,Bench/Depot Repair,Corrective COR,2016-03-18 13:39:00,7.0,1.0,0.0,MD3610,PARRELLEL PORT CARD BUS,REPAIRABLE,1.0
+2079,LMTS,LMTS,Warfighter Support Center,DR7104553,Bench/Depot Repair,Corrective COR,2015-10-16 11:32:06,7.0,1.0,0.0,LT-300,LASER,REPAIRABLE,1.0
+2675,LMTS,LMTS,Warfighter Support Center,DR7865547,Bench/Depot Repair,Corrective COR,2017-02-28 09:56:04,8.0,4.0,0.0,LT-300,LASER,REPAIRABLE,4.0
+2684,LMTS,LMTS,Warfighter Support Center,DR7881857,Bench/Depot Repair,Corrective COR,2017-03-08 10:38:04,8.0,1.0,0.0,MD1001,POWER SUPPLY,REPAIRABLE,1.0
+2703,LMTS,LMTS,Warfighter Support Center,DR7893320,Bench/Depot Repair,Corrective COR,2017-03-17 09:12:11,8.0,1.0,0.0,MD3540,CONTROL BOX,REPAIRABLE,1.0
+2771,LMTS  ,Laser Marksmanship Training System,Warfighter Support Center,7866143,System - Device Degraded,Corrective COR,2017-02-22 16:16:00,8.0,4.0,0.0,MD2511,ROD,REPAIRABLE,4.0
+2783,LMTS  ,Laser Marksmanship Training System,Germany - Baumholder,7704161,System - Device Degraded,Corrective COR,2016-10-01 04:00:00,8.0,1.0,0.0,MD3528,TARGET,REPAIRABLE,1.0
+2784,LMTS  ,Laser Marksmanship Training System,Germany - Baumholder,7704162,System - Device Degraded,Corrective COR,2016-10-01 04:00:00,8.0,1.0,0.0,MD3528,TARGET,REPAIRABLE,1.0
+2785,LMTS  ,Laser Marksmanship Training System,Germany - Baumholder,7704163,System - Device Degraded,Corrective COR,2016-10-01 04:00:00,8.0,1.0,0.0,MD3528,TARGET,REPAIRABLE,1.0
+2796,LMTS,Laser Markmenship Training System,Warfighter Support Center,8324262,System - Device Degraded,Corrective COR,2017-05-12 13:59:46,9.0,2.0,0.0,MD3572,LIFTER,REPAIRABLE,2.0
+2797,LMTS,Laser Markmenship Training System,Warfighter Support Center,8357392,System - Device Degraded,Corrective COR,2017-06-02 10:50:01,9.0,2.0,0.0,MD3572,LIFTER,REPAIRABLE,2.0
+2821,LMTS,Laser Markmenship Training System,Warfighter Support Center,8507892,System - Device Degraded,Corrective COR,2017-09-08 10:45:00,9.0,3.0,0.0,MD3572,LIFTER,REPAIRABLE,3.0
+2900,LMTS,Laser Markmenship Training System,Warfighter Support Center,DR8450305,Bench/Depot Repair,Corrective COR,2017-08-03 11:06:12,9.0,1.0,0.0,LT-300,LASER,REPAIRABLE,1.0
+3000,LMTS,Laser Markmenship Training System,Warfighter Support Center,DR8577939,Bench/Depot Repair,Corrective COR,2017-12-04 11:00:00,9.0,1.0,0.0,LT-300,LASER,REPAIRABLE,1.0
+3001,LMTS,Laser Markmenship Training System,Warfighter Support Center,DR8577940,Bench/Depot Repair,Corrective COR,2017-12-05 07:30:00,9.0,1.0,0.0,LT-300,LASER,REPAIRABLE,1.0
+3024,LMTS,Laser Markmenship Training System,Warfighter Support Center,DR8602655,Bench/Depot Repair,Corrective COR,2017-12-20 12:38:22,9.0,1.0,0.0,MD3597,"WIRELESS, ACCESS POINT, NGLMTS",REPAIRABLE,1.0
+3068,LMTS,Laser Markmenship Training System,Warfighter Support Center,DR8656967,Bench/Depot Repair,Corrective COR,2018-01-24 07:30:11,9.0,1.0,0.0,LT-300,LASER,REPAIRABLE,1.0
+3098,LMTS,Laser Markmenship Training System,Warfighter Support Center,DR8737131,Bench/Depot Repair,Corrective COR,2018-02-26 08:30:06,9.0,1.0,0.0,LT-300,LASER,REPAIRABLE,1.0
+3145,LMTS,Laser Markmenship Training System,Warfighter Support Center,DR8820098,Bench/Depot Repair,Corrective COR,2018-05-03 09:11:09,9.0,1.0,0.0,LT-300,LASER,REPAIRABLE,1.0
+3147,LMTS,Laser Markmenship Training System,Warfighter Support Center,DR8820100,Bench/Depot Repair,Corrective COR,2018-04-27 11:00:10,9.0,1.0,0.0,LT-300,LASER,REPAIRABLE,1.0
+3262,LMTS,,Warfighter Support Center,DR8544550,Bench/Depot Repair,Corrective COR,2017-10-04 10:44:02,9.0,1.0,0.0,LT-300,LASER,REPAIRABLE,1.0
+3307,LMTS,,Warfighter Support Center,DR8655200,Bench/Depot Repair,Corrective COR,2018-01-11 10:30:57,9.0,1.0,0.0,LT-300,LASER,REPAIRABLE,1.0
+3319,LMTS,,Warfighter Support Center,DR8737136,Bench/Depot Repair,Corrective COR,2018-02-27 09:30:55,9.0,1.0,0.0,LT-300,LASER,REPAIRABLE,1.0
+3352,LMTS,,Warfighter Support Center,DR8820097,Bench/Depot Repair,Corrective COR,2018-04-27 13:30:16,9.0,1.0,0.0,LT-300,LASER,REPAIRABLE,1.0
+3363,LMTS,Laser Marksmanship Training System (LMTS) Large Suite,Warfighter Support Center,8727464,System - Device Degraded,Corrective COR,2018-02-12 09:00:00,9.0,1.0,0.0,MD3572,LIFTER,REPAIRABLE,1.0
+3371,LMTS,Laser Marksmanship Training System (LMTS) Large Suite,Warfighter Support Center,8820327,System - Device Degraded,Corrective COR,2018-04-12 15:00:00,9.0,1.0,0.0,MD2533,LASER ALIGNMENT DEVICE- 5.56,REPAIRABLE,1.0
+3372,LMTS,Laser Marksmanship Training System (LMTS) Large Suite,Warfighter Support Center,8820327,System - Device Degraded,Corrective COR,2018-04-12 15:00:00,9.0,1.0,0.0,MD2533,LASER ALIGNMENT DEVICE- 5.56,REPAIRABLE,1.0

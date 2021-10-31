@@ -1,0 +1,224 @@
+,device_number,device_description,site,work_order_number,work_order_priority_description,wo_type_description,problem_reported,lot_year,num_parts_from_storeroom,num_parts_from_po,repair_part_number,repair_part_name,repair_part_stocktype,total_parts_used
+331,CACTF,Combined Arms Collective Training Facility (GDIT),"Ft Carson, CO",5961046,Corrective Maintenance,Corrective COR,2013-10-01 10:00:00,5.0,1,0,05146012-5501,UPS,REPAIRABLE,1
+507,CACTF,Combined Arms Collective Training Facility (GDIT),"Ft Polk, LA",5740982,Corrective Maintenance,Corrective COR,2013-04-19 08:00:00,4.0,1,0,05146012-5501,UPS,REPAIRABLE,1
+508,CACTF,Combined Arms Collective Training Facility (GDIT),"Ft Polk, LA",5740982,Corrective Maintenance,Corrective COR,2013-04-19 08:00:00,4.0,1,0,05146012-5501,UPS,REPAIRABLE,1
+1162,CACTF,Combined Arms Collective Training Facility (GDIT),"Ft Riley, KS",6367251,Corrective Maintenance,Corrective COR,2014-07-10 13:00:00,6.0,1,0,13VG2811ASIR-SQ,CAMERA ,REPAIRABLE,1
+1346,CACTF,Combined Arms Collective Training Facility (GDIT),"Ft Riley, KS",6365987,Corrective Maintenance,Corrective COR,2014-07-10 09:00:00,6.0,1,0,13VG2811ASIR-SQ,CAMERA ,REPAIRABLE,1
+1357,CACTF,Combined Arms Collective Training Facility (GDIT),"Ft Riley, KS",6741689,Corrective Maintenance,Corrective COR,2015-03-19 09:30:00,6.0,1,0,PD60AT,"HORN, SPEAKER, DRIVER",REPAIRABLE,1
+1858,CACTF,Combined Arms Collective Training Facility (GDIT),"Ft Stewart, GA",6384095,Corrective Maintenance,Corrective COR,2014-07-23 07:00:00,6.0,1,0,9171-4200-0003,ENCODER,REPAIRABLE,1
+1866,CACTF,Combined Arms Collective Training Facility (GDIT),"Ft Riley, KS",6741677,Corrective Maintenance,Corrective COR,2015-03-19 08:30:00,6.0,1,0,PD60AT,"HORN, SPEAKER, DRIVER",REPAIRABLE,1
+2011,CACTF,Combined Arms Collective Training Facility (GDIT),"Ft Riley, KS",6741692,Corrective Maintenance,Corrective COR,2015-03-19 10:30:00,6.0,1,0,PD60AT,"HORN, SPEAKER, DRIVER",REPAIRABLE,1
+2783,CACTF,Combined Arms Collective Training Facility (GDIT),"Ft Carson, CO",6494862,Corrective Maintenance,Corrective COR,2014-09-29 07:00:00,6.0,1,0,9171-4200-0003,ENCODER,REPAIRABLE,1
+2827,CACTF,Combined Arms Collective Training Facility (GDIT),"Ft Riley, KS",6174700,Corrective Maintenance,Corrective COR,2014-03-13 09:00:00,5.0,1,0,9171-4200-0003,ENCODER,REPAIRABLE,1
+2830,CACTF,Combined Arms Collective Training Facility (GDIT),"Ft Carson, CO",6173581,Corrective Maintenance,Corrective COR,2014-03-10 15:00:00,5.0,1,0,CP1-LI17A,"ILLUMINATOR, IR",REPAIRABLE,1
+2847,CACTF,Combined Arms Collective Training Facility (GDIT),"Ft Carson, CO",6132144,Corrective Maintenance,Corrective COR,2014-02-05 08:00:00,5.0,1,0,WS-C3750G-48TS-E,"OBSOLETE - SWITCH, CATALYST 3750 48 10/100, CISCO",REPAIRABLE,1
+2908,CACTF,Combined Arms Collective Training Facility (GDIT),"Ft Carson, CO",6394877,Corrective Maintenance,Corrective COR,2014-07-28 08:00:00,6.0,1,0,WD1600JD,"DRIVE, HARD",REPAIRABLE,1
+4818,CACTF,Combined Arms Collective Training Facility (GDIT),"Ft Riley, KS",6419871,Corrective Maintenance,Corrective COR,2014-08-15 11:00:00,6.0,1,0,NI-4100,CONTROLLER,REPAIRABLE,1
+4945,CACTF,Combined Arms Collective Training Facility (GDIT),"Ft Riley, KS",6304536,Corrective Maintenance,Corrective COR,2014-05-30 08:30:00,6.0,1,0,WS-C3750G-48TS-E,"OBSOLETE - SWITCH, CATALYST 3750 48 10/100, CISCO",REPAIRABLE,1
+5016,CACTF,Combined Arms Collective Training Facility (GDIT),"Ft Carson, CO",6408105,Corrective Maintenance,Corrective COR,2014-08-05 07:00:00,6.0,1,0,WD1600JD,"DRIVE, HARD",REPAIRABLE,1
+5093,CACTF,Combined Arms Collective Training Facility (GDIT),"Ft Carson, CO",6514494,Corrective Maintenance,Corrective COR,2014-10-13 07:00:00,6.0,1,0,9171-4200-0003,ENCODER,REPAIRABLE,1
+5408,CACTF,Combined Arms Collective Training Facility (GDIT),"Ft Carson, CO",5633763,Corrective Maintenance,Corrective COR,2013-02-25 07:00:00,4.0,1,0,WS-C3750G-48TS-E,SWITCH,REPAIRABLE,1
+5802,CACTF,Combined Arms Collective Training Facility (GDIT),"Ft Carson, CO",5632787,Corrective Maintenance,Corrective COR,2013-02-25 07:00:00,4.0,1,0,WS-C3750G-48TS-E,SWITCH,REPAIRABLE,1
+6100,CACTF,Combined Arms Collective Training Facility (GDIT),"Ft Carson, CO",6376627,Corrective Maintenance,Corrective COR,2014-07-14 08:00:00,6.0,1,0,WD1600JD,"DRIVE, HARD",REPAIRABLE,1
+6258,CACTF,Combined Arms Collective Training Facility (GDIT),"Ft Riley, KS",6741707,Corrective Maintenance,Corrective COR,2015-03-18 13:30:00,6.0,1,0,CTS600,"CROWN AMPLIFER,4 OHM 300 WTS",REPAIRABLE,1
+6748,CACTF,Combined Arms Collective Training Facility (GDIT),"Ft Riley, KS",6761435,Corrective Maintenance,Corrective COR,2015-03-30 11:00:00,6.0,1,0,UB12SEW,SPEAKER,REPAIRABLE,1
+6818,CACTF,Combined Arms Collective Training Facility (GDIT),"Ft Riley, KS",6761439,Corrective Maintenance,Corrective COR,2015-03-30 11:00:00,6.0,1,0,UB12SEW,SPEAKER,REPAIRABLE,1
+6850,CACTF,Combined Arms Collective Training Facility (GDIT),"Ft Riley, KS",6761201,Corrective Maintenance,Corrective COR,2015-03-30 11:00:00,6.0,1,0,UB12SEW,SPEAKER,REPAIRABLE,1
+7004,CACTF,Combined Arms Collective Training Facility (GDIT),"Ft Carson, CO",5647807,Corrective Maintenance,Corrective COR,2013-03-04 13:36:36,4.0,1,0,GC-EXSTR-200,DECODER,REPAIRABLE,1
+7524,CACTF,Combined Arms Collective Training Facility (GDIT),"Ft Riley, KS",5646001,Corrective Maintenance,Corrective COR,2013-03-05 09:00:00,4.0,1,0,ICD-49,CAMERA ,REPAIRABLE,1
+7938,CACTF,Combined Arms Collective Training Facility (GDIT),"Ft Bliss, TX",6044301,Corrective Maintenance,Corrective COR,2013-12-03 09:00:00,5.0,1,0,05146012-5501,UPS,REPAIRABLE,1
+8011,CACTF,Combined Arms Collective Training Facility (GDIT),Korea - Camp Casey,6628409,Corrective Maintenance,Corrective COR,2015-01-05 18:00:00,6.0,1,0,PZM-11LL WR,"WEATHER RESITANT MICROPHONE, CROWN",REPAIRABLE,1
+8198,CACTF,Combined Arms Collective Training Facility (GDIT),"Camp Ripley, MN",5862429,Corrective Maintenance,Corrective COR,2013-07-30 13:00:00,5.0,1,0,ICD-49,CAMERA,REPAIRABLE,1
+8432,CACTF,Combined Arms Collective Training Facility (GDIT),"Ft Drum, NY",5208364,Corrective Maintenance,Corrective COR,2012-05-14 08:20:00,4.0,1,0,GC-EXSTR-200,DECODER,REPAIRABLE,1
+8635,CACTF,Combined Arms Collective Training Facility (GDIT),"Ft Hood, TX",6634623,Bench/Depot Repair,Corrective COR,2015-01-12 08:00:00,6.0,1,0,05146012-5501,UPS,REPAIRABLE,1
+9103,CACTF,Combined Arms Collective Training Facility (GDIT),"Ft Hood, TX",WF-5853259,Corrective Maintenance,Corrective COR,2013-07-24 09:00:00,5.0,1,0,05146012-5501,UPS,REPAIRABLE,1
+9781,CACTF,Combined Arms Collective Training Facility (GDIT),"Ft Bliss, TX",6074265,Corrective Maintenance,Corrective COR,2014-01-02 08:00:00,5.0,1,0,05146012-5501,UPS,REPAIRABLE,1
+9802,CACTF,Combined Arms Collective Training Facility (GDIT),"Ft Drum, NY",6072813,Corrective Maintenance,Corrective COR,2013-12-30 07:10:00,5.0,1,0,WD1600JD,"DRIVE, HARD",REPAIRABLE,1
+9845,CACTF,Combined Arms Collective Training Facility (GDIT),"Camp Ripley, MN",6382670,Corrective Maintenance,Corrective COR,2014-07-21 14:45:00,6.0,1,0,9171-4200-0003,ENCODER,REPAIRABLE,1
+9855,CACTF,Combined Arms Collective Training Facility (GDIT),"Ft McCoy, WI",6560516,Corrective Maintenance,Corrective COR,2014-11-10 11:30:00,6.0,1,0,UB12SEW,SPEAKER,REPAIRABLE,1
+9963,CACTF,Combined Arms Collective Training Facility (GDIT),Korea - Camp Casey,6216403,Corrective Maintenance,Corrective COR,2014-04-03 21:30:00,5.0,1,0,VSC500,"CONVERTER, SCAN, VIDEO, EXTRON",REPAIRABLE,1
+9989,CACTF,Combined Arms Collective Training Facility (GDIT),"Ft Bliss, TX",6125126,Corrective Maintenance,Corrective COR,2014-01-29 13:00:00,5.0,1,0,9171-4200-0003,ENCODER,REPAIRABLE,1
+10236,CACTF,Combined Arms Collective Training Facility (GDIT),"Ft Campbell, KY",5917274,Corrective Maintenance,Corrective COR,2013-09-04 06:30:00,5.0,1,0,05146012-5501,UPS,REPAIRABLE,1
+10317,CACTF,Combined Arms Collective Training Facility (GDIT),Korea - Camp Casey,5623660,Corrective Maintenance,Corrective COR,2013-02-21 18:00:00,4.0,1,0,UB12SEW,SPEAKER,REPAIRABLE,1
+10339,CACTF,Combined Arms Collective Training Facility (GDIT),"Ft Bliss, TX",5914331,Corrective Maintenance,Corrective COR,2013-09-03 07:30:00,5.0,1,0,9171-4200-0003,ENCODER,REPAIRABLE,1
+10346,CACTF,Combined Arms Collective Training Facility (GDIT),"Camp Ripley, MN",5635090,Corrective Maintenance,Corrective COR,2013-02-27 15:00:00,4.0,1,0,ICD-49,CAMERA ,REPAIRABLE,1
+10350,CACTF,Combined Arms Collective Training Facility (GDIT),"Ft Campbell, KY",5710522,Corrective Maintenance,Corrective COR,2013-03-14 14:39:00,4.0,1,0,WS-C3750G-48TS-E,SWITCH,REPAIRABLE,1
+10354,CACTF,Combined Arms Collective Training Facility (GDIT),"Camp Ripley, MN",5826843,Corrective Maintenance,Corrective COR,2013-07-02 10:00:00,5.0,1,0,9171-4200-0003,ENCODER,REPAIRABLE,1
+10406,CACTF,Combined Arms Collective Training Facility (GDIT),"Ft Bliss, TX",5940533,Corrective Maintenance,Corrective COR,2013-09-18 09:30:00,5.0,1,0,BIM,"MODULE, INTERFACE",REPAIRABLE,1
+10486,CACTF,Combined Arms Collective Training Facility (GDIT),"Camp Ripley, MN",5474997,Corrective Maintenance,Corrective COR,2012-11-05 10:00:00,4.0,1,0,9171-4200-0003,ENCODER,REPAIRABLE,1
+10944,CACTF,Combined Arms Collective Training Facility (GDIT),"Camp Ripley, MN",5851194,Corrective Maintenance,Corrective COR,2013-07-22 08:00:00,5.0,1,0,ICD-49,CAMERA ,REPAIRABLE,1
+11596,CACTF,Combined Arms Collective Training Facility (GDIT),"Ft Hood, TX",6212704,Corrective Maintenance,Corrective COR,2014-04-01 09:21:54,5.0,1,0,963290-0403,"JOYSTICK, 3D PRO",REPAIRABLE,1
+11943,CACTF,Combined Arms Collective Training Facility (GDIT),Korea - Camp Casey,6122274,Corrective Maintenance,Corrective COR,2014-02-05 18:00:00,5.0,1,0,UB12SEW,SPEAKER,REPAIRABLE,1
+11955,CACTF,Combined Arms Collective Training Facility (GDIT),Korea - Camp Casey,5629444,Corrective Maintenance,Corrective COR,2013-02-21 18:00:00,4.0,1,0,SYLVA-1,Sylvania Microwave,REPAIRABLE,1
+12108,CACTF,Combined Arms Collective Training Facility (GDIT),"Camp Ripley, MN",6367094,Corrective Maintenance,Corrective COR,2014-07-10 10:00:00,6.0,1,0,9171-4200-0003,ENCODER,REPAIRABLE,1
+12119,CACTF,Combined Arms Collective Training Facility (GDIT),"Camp Ripley, MN",5784538,Corrective Maintenance,Corrective COR,2013-06-04 11:00:00,5.0,1,0,9171-4200-0003,ENCODER,REPAIRABLE,1
+12434,CACTF,Combined Arms Collective Training Facility (GDIT),"Camp Ripley, MN",5760111,Corrective Maintenance,Corrective COR,2013-05-21 13:00:00,5.0,1,0,ICD-49,CAMERA,REPAIRABLE,1
+15350,CACTF,Combined Arms Collective Training Facility (GDIT),Korea - Camp Casey,6138326,Corrective Maintenance,Corrective COR,2014-02-18 18:00:00,5.0,1,0,UB12SEW,SPEAKER,REPAIRABLE,1
+18179,CACTF,Combined Arms Collective Training Facility (GDIT),Korea - Camp Casey,5451088,Corrective Maintenance,Corrective COR,2012-04-15 18:00:00,4.0,1,0,VSC500,"VIDEO SCAN CONVERTER, EXTRON",REPAIRABLE,1
+26356,CACTF,Combined Arms Collective Training Facility (LMCO),"Ft Benning, GA",6589721,Corrective Maintenance,Corrective COR,2014-12-02 15:00:00,6.0,1,0,2005.8036,"EXSTREAMER, NETWORK, MP3, BARIX",REPAIRABLE,1
+26362,CACTF,Combined Arms Collective Training Facility (LMCO),"Ft Benning, GA",6679551,Corrective Maintenance,Corrective COR,2015-02-05 08:00:33,6.0,1,0,05146012-5501,UPS,REPAIRABLE,1
+26377,CACTF,Combined Arms Collective Training Facility (LMCO),"Ft Bragg, NC",5591671,Corrective Maintenance,Corrective COR,2013-01-29 09:27:59,4.0,1,0,13VG2811ASIR-SQ,CAMERA ,REPAIRABLE,1
+26467,CACTF,Combined Arms Collective Training Facility (LMCO),"Ft Bragg, NC",5418593,Corrective Maintenance,Corrective COR,2012-10-01 09:00:00,4.0,1,0,CDI1000,AMPLIFIER,REPAIRABLE,1
+26469,CACTF,Combined Arms Collective Training Facility (LMCO),"Ft Benning, GA",6589767,Corrective Maintenance,Corrective COR,2014-12-03 10:30:00,6.0,1,0,2005.8036,"EXSTREAMER, NETWORK, MP3, BARIX",REPAIRABLE,1
+26490,CACTF,Combined Arms Collective Training Facility (LMCO),"Ft Bragg, NC",5300457,Corrective Maintenance,Corrective COR,2012-07-16 14:46:00,4.0,1,0,FG423-17,POWER SUPPLY,REPAIRABLE,1
+26682,CACTF,Combined Arms Collective Training Facility (LMCO),"Ft Lewis, WA",6487441,Corrective Maintenance,Corrective COR,2014-09-25 08:50:00,6.0,1,0,CDI1000,AMPLIFIER,REPAIRABLE,1
+26683,CACTF,Combined Arms Collective Training Facility (LMCO),"Ft Lewis, WA",6487441,Corrective Maintenance,Corrective COR,2014-09-25 08:50:00,6.0,1,0,CDI1000,AMPLIFIER,REPAIRABLE,1
+26684,CACTF,Combined Arms Collective Training Facility (LMCO),"Ft Lewis, WA",6487441,Corrective Maintenance,Corrective COR,2014-09-25 08:50:00,6.0,1,0,CDI1000,AMPLIFIER,REPAIRABLE,1
+28009,CACTF,Combined Arms Collective Training Facility (LMCO),"Ft Lewis, WA",5311562,Corrective Maintenance,Corrective COR,2012-07-25 08:00:00,4.0,1,0,NI-4100,CONTROLLER,REPAIRABLE,1
+28846,CACTF,Combined Arms Collective Training Facility (LMCO),"Ft Lewis, WA",6327473,Corrective Maintenance,Corrective COR,2014-06-11 08:00:00,6.0,1,0,13VG2811ASIR-SQ,CAMERA ,REPAIRABLE,1
+28853,CACTF,Combined Arms Collective Training Facility (LMCO),"Ft Lewis, WA",5662323,Corrective Maintenance,Corrective COR,2013-03-15 08:30:00,4.0,1,0,384333,BATTERIES,REPAIRABLE,1
+28928,CACTF,Combined Arms Collective Training Facility (LMCO),"Ft Lewis, WA",5657972,Corrective Maintenance,Corrective COR,2013-03-12 10:28:50,4.0,1,0,384333,BATTERIES,REPAIRABLE,1
+29046,CACTF,Combined Arms Collective Training Facility (LMCO),"Ft Lewis, WA",5662310,Corrective Maintenance,Corrective COR,2013-03-15 08:30:00,4.0,1,0,384333,BATTERIES,REPAIRABLE,1
+29277,CACTF,Combined Arms Collective Training Facility (LMCO),"Ft Lewis, WA",6142155,Corrective Maintenance,Corrective COR,2014-02-20 08:30:00,5.0,1,0,05146012-5501,UPS,REPAIRABLE,1
+29349,CACTF,Combined Arms Collective Training Facility (LMCO),"Ft Lewis, WA",5265173,Corrective Maintenance,Corrective COR,2012-06-19 11:00:00,4.0,1,0,LCD2090UXI-BK,"MONITOR, TOUCH SCREEN, 20 INCH, NEC",REPAIRABLE,1
+29595,CACTF,Combined Arms Collective Training Facility (LMCO),"Ft Lewis, WA",5650745,Corrective Maintenance,Corrective COR,2013-03-07 12:30:00,4.0,1,0,UB12SEW,SPEAKER,REPAIRABLE,1
+43506,CACTF,Combined Arms Collective Training Facility (GDIT),"Ft Polk, LA",6833596,Corrective Maintenance,Corrective COR,2015-05-04 08:00:00,7.0,1,0,05146012-5501,UPS,REPAIRABLE,1
+43507,CACTF,Combined Arms Collective Training Facility (GDIT),"Ft Polk, LA",6833617,Corrective Maintenance,Corrective COR,2015-05-04 08:00:00,7.0,1,0,05146012-5501,UPS,REPAIRABLE,1
+43852,CACTF,Combined Arms Collective Training Facility (GDIT),"Ft Polk, LA",6889602,Corrective Maintenance,Corrective COR,2015-06-08 09:00:00,7.0,1,0,WS-CAC-6000W=,POWER SUPPLY,REPAIRABLE,1
+43920,CACTF,Combined Arms Collective Training Facility (GDIT),Korea - Rodriguez Range,6903373,Corrective Maintenance,Corrective COR,2015-06-14 19:00:00,7.0,1,0,PZM-11LL WR,"WEATHER RESITANT MICROPHONE, CROWN",REPAIRABLE,1
+43926,CACTF,Combined Arms Collective Training Facility (GDIT),"Ft Polk, LA",6905391,Corrective Maintenance,Corrective COR,2015-06-19 08:00:00,7.0,1,0,SANBOX 5600,STACKABLE FIBER CHANNEL SWITCH,REPAIRABLE,1
+45250,CACTF,Combined Arms Collective Training Facility (GDIT),"Ft Greely, AK (Donnelly Battle Area Complex)",7229059,Corrective Maintenance,Corrective COR,2016-01-04 12:01:55,7.0,1,0,WS-C3750G-48TS-E,SWITCH,REPAIRABLE,1
+45562,CACTF,Combined Arms Collective Training Facility (GDIT),"Ft Polk, LA",7336362,Corrective Maintenance,Corrective COR,2016-03-16 09:00:00,7.0,1,0,WS-X6748-GE-TX (A),"MODULE, CATALYST SWITCH, 6500, 48 PORT, CISCO",REPAIRABLE,1
+45690,CACTF,Combined Arms Collective Training Facility (GDIT),"Ft Polk, LA",7368345,Corrective Maintenance,Corrective COR,2016-04-07 09:00:00,7.0,1,0,9170-4200-0002,"VIDEO ENCODER 6000, VBRICK",REPAIRABLE,1
+45774,CACTF,Combined Arms Collective Training Facility (GDIT),Korea - Rodriguez Range,7398517,Corrective Maintenance,Corrective COR,2016-04-25 01:00:00,7.0,1,0,SIQURA C-20 D/IP/SA,"ENCODER, AUDIO SINGLE MPEG2 , VIDEO AND STERO",REPAIRABLE,1
+46157,CACTF,Combined Arms Collective Training Facility (GDIT),"Ft Stewart, GA",6914070,Corrective Maintenance,Corrective COR,2015-06-23 09:33:00,7.0,1,0,1201510,"CAMERA, THERMAL IMAGER, 45/135, DEFENDER, FLIR",REPAIRABLE,1
+46246,CACTF,Combined Arms Collective Training Facility (GDIT),"Kahuku Training Area, HI",6935526,Corrective Maintenance,Corrective COR,2015-07-09 21:06:00,7.0,1,0,GXT4-700RT120,"UPS, LCD SCREEN,16.2X3.4X16.9, RACK MOUNT, 630watts, LIEBERT",REPAIRABLE,1
+46714,CACTF,Combined Arms Collective Training Facility (GDIT),"Ft Stewart, GA",7018817,Corrective Maintenance,Corrective COR,2015-08-24 10:00:00,7.0,1,0,BIM 2.1,"MODULE, INTERFACE",REPAIRABLE,1
+46766,CACTF,Combined Arms Collective Training Facility (GDIT),"Ft Stewart, GA",7032059,Corrective Maintenance,Corrective COR,2015-08-31 09:00:00,7.0,1,0,NI-4100,"CONTROLLER, NETLINX, NI-4100, AMX",REPAIRABLE,1
+46901,CACTF,Combined Arms Collective Training Facility (GDIT),"Ft Drum, NY",7083623,Corrective Maintenance,Corrective COR,2015-09-30 15:15:00,7.0,1,0,WD1600JD,"DRIVE, HARD",REPAIRABLE,1
+47129,CACTF,Combined Arms Collective Training Facility (GDIT),"Kahuku Training Area, HI",7167080,Corrective Maintenance,Corrective COR,2015-11-16 09:35:53,7.0,1,0,WS-C3750G-48TS-E,SWITCH,REPAIRABLE,1
+47245,CACTF,Combined Arms Collective Training Facility (GDIT),"Ft Stewart, GA",7198864,Corrective Maintenance,Corrective COR,2015-12-11 10:00:00,7.0,1,0,9171-4200-0003,ENCODER,REPAIRABLE,1
+47660,CACTF,Combined Arms Collective Training Facility (GDIT),"Ft Campbell, KY",7313128,Corrective Maintenance,Corrective COR,2016-03-02 12:22:00,7.0,1,0,ICD-49,CAMERA,REPAIRABLE,1
+47661,CACTF,Combined Arms Collective Training Facility (GDIT),"Ft Campbell, KY",7313137,Corrective Maintenance,Corrective COR,2016-03-02 12:22:00,7.0,1,0,ICD-49,CAMERA,REPAIRABLE,1
+47662,CACTF,Combined Arms Collective Training Facility (GDIT),"Ft Campbell, KY",7313144,Corrective Maintenance,Corrective COR,2016-03-02 12:22:00,7.0,1,0,ICD-49,CAMERA,REPAIRABLE,1
+47663,CACTF,Combined Arms Collective Training Facility (GDIT),"Ft Campbell, KY",7313147,Corrective Maintenance,Corrective COR,2016-03-02 12:22:00,7.0,1,0,ICD-49,CAMERA,REPAIRABLE,1
+47664,CACTF,Combined Arms Collective Training Facility (GDIT),"Ft Campbell, KY",7313149,Corrective Maintenance,Corrective COR,2016-03-02 12:22:00,7.0,1,0,ICD-49,CAMERA,REPAIRABLE,1
+47713,CACTF,Combined Arms Collective Training Facility (GDIT),"Ft Stewart, GA",7342124,Corrective Maintenance,Corrective COR,2016-03-21 10:00:00,7.0,1,0,9171-4200-0003,ENCODER,REPAIRABLE,1
+48080,CACTF,Combined Arms Collective Training Facility (LMCO),"Ft Lewis, WA",6840426,Corrective Maintenance,Corrective COR,2015-05-11 09:00:00,7.0,1,0,05146012-5501,UPS,REPAIRABLE,1
+48203,CACTF,Combined Arms Collective Training Facility (LMCO),"Ft Hood, TX",6868925,Corrective Maintenance,Corrective COR,2015-05-26 09:00:00,7.0,1,0,WS-C3750-24TS-E V05,"SWITCH, 24 PORT, CISCO",REPAIRABLE,1
+48206,CACTF,Combined Arms Collective Training Facility (LMCO),"Ft Hood, TX",6869546,Corrective Maintenance,Corrective COR,2015-05-26 09:00:00,7.0,1,0,9171-4200-0003,ENCODER,REPAIRABLE,1
+48207,CACTF,Combined Arms Collective Training Facility (LMCO),"Ft Hood, TX",6869568,Corrective Maintenance,Corrective COR,2015-05-29 09:00:00,7.0,1,0,9171-4200-0003,ENCODER,REPAIRABLE,1
+48208,CACTF,Combined Arms Collective Training Facility (LMCO),"Ft Hood, TX",6869578,Corrective Maintenance,Corrective COR,2015-05-29 09:00:00,7.0,1,0,9171-4200-0003,ENCODER,REPAIRABLE,1
+48210,CACTF,Combined Arms Collective Training Facility (LMCO),"Ft Hood, TX",6869642,Corrective Maintenance,Corrective COR,2015-05-29 09:00:00,7.0,1,0,9171-4200-0003,ENCODER,REPAIRABLE,1
+48211,CACTF,Combined Arms Collective Training Facility (LMCO),"Ft Hood, TX",6869766,Corrective Maintenance,Corrective COR,2015-05-29 09:00:00,7.0,1,0,9171-4200-0003,ENCODER,REPAIRABLE,1
+48212,CACTF,Combined Arms Collective Training Facility (LMCO),"Ft Hood, TX",6869768,Corrective Maintenance,Corrective COR,2015-05-29 09:00:00,7.0,1,0,9171-4200-0003,ENCODER,REPAIRABLE,1
+48405,CACTF,Combined Arms Collective Training Facility (LMCO),"Ft Carson, CO",6886735,Corrective Maintenance,Corrective COR,2015-06-03 08:00:00,7.0,1,0,9171-4200-0003,ENCODER,REPAIRABLE,1
+48769,CACTF,Combined Arms Collective Training Facility (LMCO),"Ft Lewis, WA",6924040,Corrective Maintenance,Corrective COR,2015-06-30 07:00:00,7.0,1,0,M5-MRTI-32,"CAMERA, THERMAL, IMAGER, PTZ, SPI CORP",REPAIRABLE,1
+48770,CACTF,Combined Arms Collective Training Facility (LMCO),"Ft Lewis, WA",6924047,Corrective Maintenance,Corrective COR,2015-06-30 09:00:00,7.0,1,0,M5-MRTI-32,"CAMERA, THERMAL, IMAGER, PTZ, SPI CORP",REPAIRABLE,1
+49268,CACTF,Combined Arms Collective Training Facility (LMCO),"Ft Lewis, WA",6952487,Corrective Maintenance,Corrective COR,2015-07-20 08:00:00,7.0,1,0,05146012-5501,UPS,REPAIRABLE,1
+49270,CACTF,Combined Arms Collective Training Facility (LMCO),"Ft Lewis, WA",6954007,Corrective Maintenance,Corrective COR,2015-07-21 08:00:00,7.0,1,0,05146012-5501,UPS,REPAIRABLE,1
+49272,CACTF,Combined Arms Collective Training Facility (LMCO),"Ft Riley, KS",6955108,Corrective Maintenance,Corrective COR,2015-07-21 09:00:37,7.0,1,0,9171-4200-0003,ENCODER,REPAIRABLE,1
+49280,CACTF,Combined Arms Collective Training Facility (LMCO),"Ft Riley, KS",6956714,Corrective Maintenance,Corrective COR,2015-07-23 09:00:00,7.0,1,0,9171-4200-0003,ENCODER,REPAIRABLE,1
+49355,CACTF,Combined Arms Collective Training Facility (LMCO),"Ft Riley, KS",6961327,Corrective Maintenance,Corrective COR,2015-07-27 10:00:00,7.0,1,0,2012.9123,"INSTREAMER, AUDIO ENCODER, NETWORK, MP3, BARIX",REPAIRABLE,1
+49527,CACTF,Combined Arms Collective Training Facility (LMCO),"Ft Riley, KS",6980864,Corrective Maintenance,Corrective COR,2015-08-05 09:00:00,7.0,1,0,2006.8040,"DECODER, AUDIO, NETWORK, BARIX",REPAIRABLE,1
+49937,CACTF,Combined Arms Collective Training Facility (LMCO),"Ft Lewis, WA",7035511,Corrective Maintenance,Corrective COR,2015-09-01 14:00:00,7.0,1,0,0769-001,"CAMERA, COMMUNICATIONS, P5514, PTZ INDOOR DOME NETWORK, AXIS",REPAIRABLE,1
+49953,CACTF,Combined Arms Collective Training Facility (LMCO),"Ft Carson, CO",7038298,System - Device Down,Corrective COR,2015-09-04 12:00:00,7.0,1,0,05146012-5501,UPS,REPAIRABLE,1
+50130,CACTF,Combined Arms Collective Training Facility (LMCO),"Ft Lewis, WA",7068063,Corrective Maintenance,Corrective COR,2015-09-22 08:30:00,7.0,1,0,05146012-5501,UPS,REPAIRABLE,1
+51071,CACTF,Combined Arms Collective Training Facility (LMCO),"Ft Lewis, WA",7199158,Corrective Maintenance,Corrective COR,2015-12-14 08:30:00,7.0,1,0,13VG2811ASIR-SQ,CAMERA ,REPAIRABLE,1
+51652,CACTF,Combined Arms Collective Training Facility (LMCO),"Ft Lewis, WA",7271755,Corrective Maintenance,Corrective COR,2016-02-05 09:00:00,7.0,1,0,13VG2811ASIR-SQ,CAMERA ,REPAIRABLE,1
+52509,CACTF,Combined Arms Collective Training Facility (LMCO),"Ft Carson, CO",7401230,Corrective Maintenance,Corrective COR,2016-04-26 08:25:00,7.0,1,0,GC-EXSTR-200,DECODER,REPAIRABLE,1
+52511,CACTF,Combined Arms Collective Training Facility (LMCO),"Ft Carson, CO",7403383,Corrective Maintenance,Corrective COR,2016-04-27 08:20:00,7.0,1,0,BIM,"MODULE, INTERFACE",REPAIRABLE,1
+52512,CACTF,Combined Arms Collective Training Facility (LMCO),"Ft Carson, CO",7403383,Corrective Maintenance,Corrective COR,2016-04-27 08:20:00,7.0,1,0,BIM,"MODULE, INTERFACE",REPAIRABLE,1
+52565,CACTF,Collective Training Facility (GDIT),"Camp Ripley, MN",6833572,Corrective Maintenance,Corrective COR,2015-05-05 15:00:00,7.0,1,0,9171-4200-0003,ENCODER,REPAIRABLE,1
+53096,CACTF,Collective Training Facility (GDIT),"Ft Dix, NJ",6917282,Corrective Maintenance,Corrective COR,2015-06-26 08:00:00,7.0,1,0,9171-4200-0003,ENCODER,REPAIRABLE,1
+53097,CACTF,Collective Training Facility (GDIT),"Ft Dix, NJ",6917283,Corrective Maintenance,Corrective COR,2015-06-26 08:00:00,7.0,1,0,9171-4200-0003,ENCODER,REPAIRABLE,1
+53386,CACTF,Collective Training Facility (GDIT),"Camp Ripley, MN",6953932,Corrective Maintenance,Corrective COR,2015-07-20 08:00:00,7.0,1,0,9171-4200-0003,ENCODER,REPAIRABLE,1
+53658,CACTF,Collective Training Facility (GDIT),"Camp Ripley, MN",6992988,Corrective Maintenance,Corrective COR,2015-08-10 08:00:00,7.0,1,0,9171-4200-0003,ENCODER,REPAIRABLE,1
+53660,CACTF,Collective Training Facility (GDIT),"Camp Ripley, MN",6993035,Corrective Maintenance,Corrective COR,2015-08-11 08:00:00,7.0,1,0,9171-4200-0003,ENCODER,REPAIRABLE,1
+53668,CACTF,Collective Training Facility (GDIT),"Camp Ripley, MN",6994645,Corrective Maintenance,Corrective COR,2015-08-12 08:00:00,7.0,1,0,9171-4200-0003,ENCODER,REPAIRABLE,1
+55490,CACTF,Collective Training Facility (GDIT),"Ft AP Hill, VA",7301254,Corrective Maintenance,Corrective COR,2016-02-25 13:00:00,7.0,1,0,9171-4200-0003,ENCODER,REPAIRABLE,1
+56384,CACTF,Collective Training Facility (LMCO),"Camp Bullis, TX",6897968,Corrective Maintenance,Corrective COR,2015-06-12 12:09:03,7.0,1,0,DMR-EH69GA-K,DVD VIDEO RECORDER,REPAIRABLE,1
+56993,CACTF,Collective Training Facility (LMCO),"Camp Bullis, TX",7104538,Corrective Maintenance,Corrective COR,2015-10-14 06:45:00,7.0,1,0,2005.9052,"DECODER, AUDIO, EXSTREAMER 100, MODEL # 2005.9052, BARIX",REPAIRABLE,1
+56995,CACTF,Collective Training Facility (LMCO),"Camp Bullis, TX",7104656,Corrective Maintenance,Corrective COR,2015-10-14 06:45:00,7.0,1,0,2005.9052,"DECODER, AUDIO, EXSTREAMER 100, MODEL # 2005.9052, BARIX",REPAIRABLE,1
+57451,CACTF,Collective Training Facility (LMCO),"Ft Knox, KY",7236485,Corrective Maintenance,Corrective COR,2016-01-14 08:30:13,7.0,1,0,ICD-49,CAMERA,REPAIRABLE,1
+58377,CACTF,Combined Arms Collective Training Facility (GDIT),"Ft Drum, NY",7483761,Corrective Maintenance,Corrective COR,2016-06-16 13:15:00,8.0,1,0,WD1600JD,"DRIVE, HARD, INTERNAL, BARRACUDA, ES 750 GB, SEAGATE",REPAIRABLE,1
+58957,CACTF,Combined Arms Collective Training Facility (GDIT),"Ft Stewart, GA",7625657,Corrective Maintenance,Corrective COR,2016-09-12 09:00:00,8.0,1,0,GXT4-700RT120,"UPS, LCD SCREEN,16.2X3.4X16.9, RACK MOUNT, 630watts, LIEBERT",REPAIRABLE,1
+59040,CACTF,Combined Arms Collective Training Facility (GDIT),"Ft Stewart, GA",7645253,Corrective Maintenance,Corrective COR,2016-09-27 09:00:00,8.0,1,0,9171-4200-0003,ENCODER,REPAIRABLE,1
+60143,CACTF,Collective Training Facility (LMCO),"Camp Bullis, TX",7506833,Corrective Maintenance,Corrective COR,2016-06-30 08:00:00,8.0,1,0,2005.9052,"DECODER, AUDIO, EXSTREAMER 100, MODEL # 2005.9052, BARIX",REPAIRABLE,1
+60393,CACTF,Collective Training Facility (LMCO),"Camp Bullis, TX",7589873,Corrective Maintenance,Corrective COR,2016-08-23 08:00:00,8.0,1,0,2005.9052,"DECODER, AUDIO, EXSTREAMER 100, MODEL # 2005.9052, BARIX",REPAIRABLE,1
+62068,CACTF,Combined Arms Collective Training Facility (LMCO),"Ft Riley, KS",7448118,Corrective Maintenance,Corrective COR,2016-05-25 09:00:00,8.0,1,0,13383836255,"AIR CONDITIONER, 460VAC, RAL7035, LT GRAY, N12, SERIES DTS3245, PFANNENBERG",REPAIRABLE,1
+62563,CACTF,Combined Arms Collective Training Facility (LMCO),"Ft Riley, KS",7506824,Corrective Maintenance,Corrective COR,2016-06-29 12:00:00,8.0,1,0,ICD-49,CAMERA,REPAIRABLE,1
+62831,CACTF,Combined Arms Collective Training Facility (LMCO),"Ft Carson, CO",7524843,System - Device Degraded,Corrective COR,2016-07-12 09:45:00,8.0,2,0,WD1600JD,"DRIVE, HARD, INTERNAL, BARRACUDA, ES 750 GB, SEAGATE",REPAIRABLE,2
+62983,CACTF,Combined Arms Collective Training Facility (LMCO),"Ft Hood, TX",7542019,Corrective Maintenance,Corrective COR,2016-07-27 09:00:00,8.0,1,0,WS-C3750G-48TS-E,"OBSOLETE - SWITCH, ETHERNET, NETWORK, 24 PORT, CATALYST 3750, 10/100, CISCO",REPAIRABLE,1
+62984,CACTF,Combined Arms Collective Training Facility (LMCO),"Ft Hood, TX",7542082,Corrective Maintenance,Corrective COR,2016-07-27 09:00:00,8.0,1,0,WS-C3750G-48TS-E,"SWITCH, CATALYST 3750, 48 PORT, CISCO",REPAIRABLE,1
+63275,CACTF,Combined Arms Collective Training Facility (LMCO),"Ft Carson, CO",7583601,Corrective Maintenance,Corrective COR,2016-08-18 07:00:00,8.0,1,0,05146012-5501,UPS,REPAIRABLE,1
+63278,CACTF,Combined Arms Collective Training Facility (LMCO),"Ft Carson, CO",7584862,Corrective Maintenance,Corrective COR,2016-08-19 08:30:00,8.0,1,0,9171-4200-0003,ENCODER,REPAIRABLE,1
+63523,CACTF,Combined Arms Collective Training Facility (LMCO),"Ft Hood, TX",7614812,Corrective Maintenance,Corrective COR,2016-08-31 09:00:00,8.0,1,0,B020-008-17,"SWITCH, KVM, 8-PORT, TRIPP-LITE",REPAIRABLE,1
+63630,CACTF,Combined Arms Collective Training Facility (LMCO),"Ft Carson, CO",7628943,Corrective Maintenance,Corrective COR,2016-09-15 08:00:00,8.0,1,0,9171-4200-0003,ENCODER,REPAIRABLE,1
+63762,CACTF,Combined Arms Collective Training Facility (LMCO),"Ft Riley, KS",7645059,Corrective Maintenance,Corrective COR,2016-09-26 13:00:00,8.0,1,0,NI-4100,CONTROLLER,REPAIRABLE,1
+63941,CACTF,Combined Arms Collective Training Facility (LMCO),"Ft Hood, TX",7666610,Corrective Maintenance,Corrective COR,2016-10-10 09:00:00,8.0,1,0,9171-4200-0003,ENCODER,REPAIRABLE,1
+63942,CACTF,Combined Arms Collective Training Facility (LMCO),"Ft Hood, TX",7666657,Corrective Maintenance,Corrective COR,2016-10-10 09:00:00,8.0,1,0,9171-4200-0003,ENCODER,REPAIRABLE,1
+63943,CACTF,Combined Arms Collective Training Facility (LMCO),"Ft Hood, TX",7666665,Corrective Maintenance,Corrective COR,2016-10-10 10:00:00,8.0,1,0,9171-4200-0003,ENCODER,REPAIRABLE,1
+63944,CACTF,Combined Arms Collective Training Facility (LMCO),"Ft Hood, TX",7666669,Corrective Maintenance,Corrective COR,2016-10-10 10:00:00,8.0,1,0,9171-4200-0003,ENCODER,REPAIRABLE,1
+63952,CACTF,Combined Arms Collective Training Facility (LMCO),"Ft Hood, TX",7667477,Corrective Maintenance,Corrective COR,2016-10-11 09:00:00,8.0,1,0,05146012-5501,UPS,REPAIRABLE,1
+63953,CACTF,Combined Arms Collective Training Facility (LMCO),"Ft Hood, TX",7667495,Corrective Maintenance,Corrective COR,2016-10-11 10:00:00,8.0,1,0,05146012-5501,UPS,REPAIRABLE,1
+64784,CACTF,Combined Arms Collective Training Facility (LMCO),"Ft Riley, KS",7760693,Corrective Maintenance,Corrective COR,2016-12-13 09:00:00,8.0,1,0,GC-EXSTR-200,DECODER,REPAIRABLE,1
+64786,CACTF,Combined Arms Collective Training Facility (LMCO),"Ft Riley, KS",7761567,Corrective Maintenance,Corrective COR,2016-12-14 08:30:00,8.0,1,0,2006.8040,"DECODER, AUDIO, NETWORK, BARIX",REPAIRABLE,1
+65151,CACTF,Combined Arms Collective Training Facility (LMCO),"Ft Riley, KS",7801312,Corrective Maintenance,Corrective COR,2017-01-20 09:00:00,8.0,1,0,GXT2-1000RT120,"UNINTERRUPTIBLE POWER SYSTEM (UPS), GXT2, 1000VA, LIEBERT",REPAIRABLE,1
+65224,CACTF,Combined Arms Collective Training Facility (LMCO),"Ft Hood, TX",7811199,Corrective Maintenance,Corrective COR,2017-01-26 09:00:00,8.0,1,0,9171-4200-0003,ENCODER,REPAIRABLE,1
+65225,CACTF,Combined Arms Collective Training Facility (LMCO),"Ft Hood, TX",7811199,Corrective Maintenance,Corrective COR,2017-01-26 09:00:00,8.0,1,0,9171-4200-0003,ENCODER,REPAIRABLE,1
+65226,CACTF,Combined Arms Collective Training Facility (LMCO),"Ft Hood, TX",7811233,Corrective Maintenance,Corrective COR,2017-01-26 09:00:00,8.0,1,0,9171-4200-0003,ENCODER,REPAIRABLE,1
+65593,CACTF,Combined Arms Collective Training Facility (LMCO),"Ft Riley, KS",7868136,System - Device Degraded,Corrective COR,2017-03-01 10:00:00,8.0,1,0,POWEREDGE 2950,"SERVER, POWEREDGE, 2950, DELL",REPAIRABLE,1
+65878,CACTF,Combined Arms Collective Training Facility (LMCO),"Ft Riley, KS",7901373,Corrective Maintenance,Corrective COR,2017-03-21 14:30:00,8.0,1,0,ICD-49,"CAMERA, 1/2"" MONOCHROME,  IKEGAMI",REPAIRABLE,1
+65890,CACTF,Combined Arms Collective Training Facility (LMCO),"Ft Riley, KS",7902847,Corrective Maintenance,Corrective COR,2017-03-22 10:30:00,8.0,1,0,UB12SEW,SPEAKER,REPAIRABLE,1
+65892,CACTF,Combined Arms Collective Training Facility (LMCO),"Ft Riley, KS",7902858,Corrective Maintenance,Corrective COR,2017-03-22 11:45:00,8.0,1,0,UB12SEW,SPEAKER,REPAIRABLE,1
+65893,CACTF,Combined Arms Collective Training Facility (LMCO),"Ft Riley, KS",7902863,Corrective Maintenance,Corrective COR,2017-03-22 11:00:00,8.0,1,0,UB12SEW,SPEAKER,REPAIRABLE,1
+66480,CACTF,Combined Arms Collective Training Facility (GDIT),"Ft Polk, LA",7507602,Corrective Maintenance,Corrective COR,2016-06-29 08:00:00,8.0,1,0,9171-4200-0003,ENCODER,REPAIRABLE,1
+66835,CACTF,Combined Arms Collective Training Facility (GDIT),"Ft Polk, LA",7639807,Corrective Maintenance,Corrective COR,2016-09-22 08:00:00,8.0,1,0,9171-4200-0003,ENCODER,REPAIRABLE,1
+66853,CACTF,Combined Arms Collective Training Facility (GDIT),"Ft Carson, CO",7659700,Corrective Maintenance,Corrective COR,2016-10-05 12:00:00,8.0,2,0,WD1600JD,"DRIVE, HARD, INTERNAL, BARRACUDA, ES 750 GB, SEAGATE",REPAIRABLE,2
+66854,CACTF,Combined Arms Collective Training Facility (GDIT),"Ft Carson, CO",7659700,Corrective Maintenance,Corrective COR,2016-10-05 12:00:00,8.0,2,0,WD1600JD,"DRIVE, HARD, INTERNAL, BARRACUDA, ES 750 GB, SEAGATE",REPAIRABLE,2
+66894,CACTF,Combined Arms Collective Training Facility (GDIT),"Ft Carson, CO",7688838,Corrective Maintenance,Corrective COR,2016-10-24 10:30:00,8.0,1,0,WD1600JD,"DRIVE, HARD, INTERNAL, BARRACUDA, ES 750 GB, SEAGATE",REPAIRABLE,1
+67576,CACTF,Combined Arms Collective Training Facility (GDIT),"Ft Polk, LA",7872277,Corrective Maintenance,Corrective COR,2017-03-03 08:00:00,8.0,1,0,WS-X6748-GE-TX (A),"MODULE, CATALYST SWITCH, 6500, 48 PORT, CISCO",REPAIRABLE,1
+67769,CACTF,Combined Arms Collective Training Facility (GDIT),Korea - Rodriguez Range,7923396,Corrective Maintenance,Corrective COR,2017-04-03 19:00:00,8.0,1,0,C20E/IP/SA,ENCODERS,REPAIRABLE,1
+69490,CACTF,Collective Training Facility (GDIT),"Camp Ripley, MN",7616464,Corrective Maintenance,Corrective COR,2016-09-06 15:00:00,8.0,1,0,WS-C3750G-48TS-E,SWITCH,REPAIRABLE,1
+69491,CACTF,Collective Training Facility (GDIT),"Camp Ripley, MN",7616465,Corrective Maintenance,Corrective COR,2016-09-06 15:00:00,8.0,1,0,WS-C3750G-48TS-E,SWITCH,REPAIRABLE,1
+69493,CACTF,Collective Training Facility (GDIT),"Camp Ripley, MN",7616469,Corrective Maintenance,Corrective COR,2016-09-06 15:00:00,8.0,1,0,WS-C3750G-48TS-E,SWITCH,REPAIRABLE,1
+69500,CACTF,Collective Training Facility (GDIT),"Camp Ripley, MN",7617678,Corrective Maintenance,Corrective COR,2016-09-07 08:00:00,8.0,1,0,9171-4200-0003,ENCODER,REPAIRABLE,1
+69501,CACTF,Collective Training Facility (GDIT),"Camp Ripley, MN",7617678,Corrective Maintenance,Corrective COR,2016-09-07 08:00:00,8.0,1,0,9171-4200-0003,ENCODER,REPAIRABLE,1
+69504,CACTF,Collective Training Facility (GDIT),"Camp Ripley, MN",7617683,Corrective Maintenance,Corrective COR,2016-09-07 08:00:00,8.0,1,0,9171-4200-0003,ENCODER,REPAIRABLE,1
+69506,CACTF,Collective Training Facility (GDIT),"Camp Ripley, MN",7617686,Corrective Maintenance,Corrective COR,2016-09-07 08:00:00,8.0,1,0,9171-4200-0003,ENCODER,REPAIRABLE,1
+69511,CACTF,Collective Training Facility (GDIT),"Camp Ripley, MN",7617691,Corrective Maintenance,Corrective COR,2016-09-07 08:00:00,8.0,1,0,9171-4200-0003,ENCODER,REPAIRABLE,1
+69513,CACTF,Collective Training Facility (GDIT),"Camp Ripley, MN",7617693,Corrective Maintenance,Corrective COR,2016-09-07 08:00:00,8.0,1,0,9171-4200-0003,ENCODER,REPAIRABLE,1
+69517,CACTF,Collective Training Facility (GDIT),"Camp Ripley, MN",7617697,Corrective Maintenance,Corrective COR,2016-09-07 08:00:00,8.0,1,0,9171-4200-0003,ENCODER,REPAIRABLE,1
+69518,CACTF,Collective Training Facility (GDIT),"Camp Ripley, MN",7617697,Corrective Maintenance,Corrective COR,2016-09-07 08:00:00,8.0,1,0,9171-4200-0003,ENCODER,REPAIRABLE,1
+69688,CACTF,Collective Training Facility (GDIT),"Ft AP Hill, VA",7645372,Corrective Maintenance,Corrective COR,2016-09-27 10:30:00,8.0,1,0,9171-4200-0003,ENCODER,REPAIRABLE,1
+69867,CACTF,Collective Training Facility (GDIT),"Ft AP Hill, VA",7660317,Corrective Maintenance,Corrective COR,2016-10-06 07:30:00,8.0,1,0,9171-4200-0003,ENCODER,REPAIRABLE,1
+69875,CACTF,Collective Training Facility (GDIT),"Muscatatuck, IN",7662195,Corrective Maintenance,Corrective COR,2016-10-07 08:00:00,8.0,1,0,GXT4-700RT120,"UPS, LCD SCREEN,16.2X3.4X16.9, RACK MOUNT, 630watts, LIEBERT",REPAIRABLE,1
+69892,CACTF,Collective Training Facility (GDIT),"Ft AP Hill, VA",7667152,Corrective Maintenance,Corrective COR,2016-10-11 07:30:00,8.0,1,0,9171-4200-0003,ENCODER,REPAIRABLE,1
+69900,CACTF,Collective Training Facility (GDIT),"Ft AP Hill, VA",7670099,Corrective Maintenance,Corrective COR,2016-10-12 07:30:00,8.0,1,0,GXT4-700RT120,"UPS, LCD SCREEN,16.2X3.4X16.9, RACK MOUNT, 630watts, LIEBERT",REPAIRABLE,1
+69904,CACTF,Collective Training Facility (GDIT),"Muscatatuck, IN",7670219,Corrective Maintenance,Corrective COR,2016-10-13 08:00:00,8.0,1,0,WS-X6748-SFP-MAT,"MODULE, ETHERNET, 48-PORT, CATALYST 6500, CISCO",REPAIRABLE,1
+70304,CACTF,Collective Training Facility (GDIT),"Camp Shelby, MS",7713481,Corrective Maintenance,Corrective COR,2016-11-07 09:00:39,8.0,1,0,05146012-5501,UPS,REPAIRABLE,1
+70307,CACTF,Collective Training Facility (GDIT),"Camp Shelby, MS",7715080,Corrective Maintenance,Corrective COR,2016-11-09 09:00:00,8.0,1,0,ICD-49,CAMERA,REPAIRABLE,1
+70705,CACTF,Collective Training Facility (GDIT),"Camp Shelby, MS",7767795,Corrective Maintenance,Corrective COR,2016-12-19 11:00:00,8.0,1,0,A1201120,"CAMERA SYSTEM, DEFEND IR ED KIT",REPAIRABLE,1
+70713,CACTF,Collective Training Facility (GDIT),"Camp Ripley, MN",7772706,Corrective Maintenance,Corrective COR,2016-12-22 08:00:00,8.0,1,0,9171-4200-0003,ENCODER,REPAIRABLE,1
+71019,CACTF,Collective Training Facility (GDIT),"Camp Ripley, MN",7809176,Corrective Maintenance,Corrective COR,2017-01-23 13:00:00,8.0,1,0,9171-4200-0003,ENCODER,REPAIRABLE,1
+72298,CACTF,Collective Training Facility (GDIT),"Ft Dix, NJ",8298657,Corrective Maintenance,Corrective COR,2017-04-27 08:00:00,8.0,1,0,ICD-49,"CAMERA, 1/2"" MONOCHROME,  IKEGAMI",REPAIRABLE,1
+72818,CACTF,Collective Training Facility (LMCO),"Camp Bullis, TX",8450077,Corrective Maintenance,Corrective COR,2017-08-01 08:00:00,9.0,1,0,2005.9052,"DECODER, AUDIO, EXSTREAMER 100, MODEL # 2005.9052, BARIX",REPAIRABLE,1
+74405,CACTF,Combined Arms Collective Training Facility (LMCO),"Ft Riley, KS",8322991,Corrective Maintenance,Corrective COR,2017-05-11 10:00:00,9.0,1,0,9171-4200-0003,ENCODER,REPAIRABLE,1
+74742,CACTF,Combined Arms Collective Training Facility (LMCO),"Ft Riley, KS",8365907,Corrective Maintenance,Corrective COR,2017-06-07 10:00:00,9.0,1,0,2006.8040,"DECODER, AUDIO, NETWORK, BARIX",REPAIRABLE,1
+75225,CACTF,Combined Arms Collective Training Facility (LMCO),"Ft Riley, KS",8420251,Corrective Maintenance,Corrective COR,2017-07-13 10:00:00,9.0,1,0,ICD-49,"CAMERA, 1/2"" MONOCHROME,  IKEGAMI",REPAIRABLE,1
+78156,CACTF,Combined Arms Collective Training Facility (LMCO),"Ft Riley, KS",8770138,Corrective Maintenance,Corrective COR,2018-03-08 11:30:00,9.0,1,0,M5-MRTI-32,"CAMERA, THERMAL, IMAGER, PTZ, SPI CORP",REPAIRABLE,1
+79739,CACTF,Combined Arms Collective Training Facility (GDIT),"Ft Stewart, GA",8693091,Corrective Maintenance,Corrective COR,2018-01-24 10:00:00,9.0,1,0,1201510,"CAMERA, THERMAL IMAGER, 45/135, DEFENDER, FLIR",REPAIRABLE,1
+79942,CACTF,Combined Arms Collective Training Facility (GDIT),"Ft Bliss, TX",8771157,Corrective Maintenance,Corrective COR,2018-03-09 12:42:00,9.0,1,0,135284-1,"POWER SUPPLY, LOW VOLTAGE, CROWN",REPAIRABLE,1
+80321,CACTF,Collective Training Facility (GDIT),"Camp Ripley, MN",8322303,Corrective Maintenance,Corrective COR,2017-05-09 14:00:00,9.0,1,0,9171-4200-0003,ENCODER,REPAIRABLE,1
+80840,CACTF,Collective Training Facility (GDIT),"Ft AP Hill, VA",8379506,Corrective Maintenance,Corrective COR,2017-06-15 09:00:00,9.0,1,0,9171-4200-0003,ENCODER,REPAIRABLE,1
+81645,CACTF,Collective Training Facility (GDIT),"Camp Ripley, MN",8468383,Corrective Maintenance,Corrective COR,2017-08-15 08:00:00,9.0,1,0,ICD-49,"CAMERA, 1/2"" MONOCHROME,  IKEGAMI",REPAIRABLE,1
+82025,CACTF,Collective Training Facility (GDIT),"Camp Shelby, MS",8520947,Corrective Maintenance,Corrective COR,2017-09-18 11:00:13,9.0,1,0,GXT4-700RT120,"UPS, LCD SCREEN,16.2X3.4X16.9, RACK MOUNT, 630watts, LIEBERT",REPAIRABLE,1
+82681,CACTF,Collective Training Facility (GDIT),"Ft Dix, NJ",8590473,Corrective Maintenance,Corrective COR,2017-11-01 10:00:00,9.0,1,0,9171-4200-0003,ENCODER,REPAIRABLE,1
+83657,CACTF,Collective Training Facility (GDIT),"Ft Indiantown Gap, PA",8690913,Corrective Maintenance,Corrective COR,2018-01-22 08:20:00,9.0,1,0,CE413A,TONER CARTRIDGE,REPAIRABLE,1
+83798,CACTF,Collective Training Facility (GDIT),"Muscatatuck, IN",8709315,Corrective Maintenance,Corrective COR,2018-01-30 14:00:00,9.0,1,0,9171-4200-0003,ENCODER,REPAIRABLE,1
+84959,CACTF,Combined Arms Collective Training Facility (GDIT),"Ft Polk, LA",8378238,Corrective Maintenance,Corrective COR,2017-06-12 08:00:00,9.0,1,0,13VG2811ASIR-SQ,"CAMERA, ED, DEFENDIR, IMAGER, THERMAL, PAN/TILT, 135MM, ICX",REPAIRABLE,1
+85156,CACTF,Combined Arms Collective Training Facility (GDIT),Korea - Rodriguez Range,8425427,Corrective Maintenance,Corrective COR,2017-07-17 02:00:00,9.0,1,0,SIQURA C-20 D/IP/SA,"ENCODER, AUDIO SINGLE MPEG2 , VIDEO AND STERO",REPAIRABLE,1
+85302,CACTF,Combined Arms Collective Training Facility (GDIT),"Ft Polk, LA",8457413,Corrective Maintenance,Corrective COR,2017-08-07 10:00:00,9.0,1,0,05146012-5501,UPS,REPAIRABLE,1
+85303,CACTF,Combined Arms Collective Training Facility (GDIT),"Ft Polk, LA",8457451,Corrective Maintenance,Corrective COR,2017-08-07 10:00:00,9.0,1,0,9171-4200-0003,ENCODER,REPAIRABLE,1
+85304,CACTF,Combined Arms Collective Training Facility (GDIT),"Ft Polk, LA",8457455,Corrective Maintenance,Corrective COR,2017-08-07 07:00:00,9.0,1,0,9171-4200-0003,ENCODER,REPAIRABLE,1
+85305,CACTF,Combined Arms Collective Training Facility (GDIT),"Ft Polk, LA",8457500,Corrective Maintenance,Corrective COR,2017-08-07 07:00:00,9.0,1,0,9171-4200-0003,ENCODER,REPAIRABLE,1
+85383,CACTF,Combined Arms Collective Training Facility (GDIT),"Ft Polk, LA",8471414,Corrective Maintenance,Corrective COR,2017-08-17 08:00:00,9.0,1,0,WS-C3750G-48TS-E,SWITCH,REPAIRABLE,1
+85737,CACTF,Combined Arms Collective Training Facility (GDIT),"Ft Greely, AK (Donnelly Battle Area Complex)",8545027,Corrective Maintenance,Corrective COR,2017-10-04 04:00:00,9.0,1,0,WS-C3750V2-24TS-E,"SWITCH, CATALYST 3750, 24 PORT,CISCO",REPAIRABLE,1
+85853,CACTF,Combined Arms Collective Training Facility (GDIT),"Ft Polk, LA",8573385,Corrective Maintenance,Corrective COR,2017-10-23 12:00:00,9.0,1,0,WS-C3750G-48TS-E,SWITCH,REPAIRABLE,1
+85902,CACTF,Combined Arms Collective Training Facility (GDIT),"Ft Greely, AK (Donnelly Battle Area Complex)",8590142,Corrective Maintenance,Corrective COR,2017-11-01 19:03:23,9.0,1,0,9171-4200-0003,ENCODER,REPAIRABLE,1
+86024,CACTF,Combined Arms Collective Training Facility (GDIT),"Ft Polk, LA",8629309,System - Device Down,Corrective COR,2017-11-29 10:00:00,9.0,2,0,WD1600JD,"DRIVE, HARD, INTERNAL, BARRACUDA, ES 750 GB, SEAGATE",REPAIRABLE,2
+86203,CACTF,Combined Arms Collective Training Facility (GDIT),"Ft Polk, LA",8670518,Corrective Maintenance,Corrective COR,2018-01-02 08:00:00,9.0,1,0,05146012-5501,UPS,REPAIRABLE,1
+86204,CACTF,Combined Arms Collective Training Facility (GDIT),"Ft Polk, LA",8670539,Corrective Maintenance,Corrective COR,2018-01-03 08:00:00,9.0,1,0,GC-EXSTR-200,DECODER,REPAIRABLE,1
+86205,CACTF,Combined Arms Collective Training Facility (GDIT),"Ft Polk, LA",8670557,Corrective Maintenance,Corrective COR,2018-01-03 12:00:00,9.0,1,0,GC-EXSTR-200,DECODER,REPAIRABLE,1
+86498,CACTF,Combined Arms Collective Training Facility (GDIT),"Ft Polk, LA",8753251,Corrective Maintenance,Corrective COR,2018-02-27 08:00:00,9.0,1,0,WS-X6748-GE-TX (A),"MODULE, CATALYST SWITCH, 6500, 48 PORT, CISCO",REPAIRABLE,1
